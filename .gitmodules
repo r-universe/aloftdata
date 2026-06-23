@@ -7,7 +7,7 @@
 	url = https://github.com/adokter/bioRad/
 [submodule "birdscanR"]
 	path = birdscanR
-	url = https://github.com/BirdScanCommunity/birdscanR
+	url = https://github.com/BirdScanCommunity/birdscanR/
 [submodule "getRad"]
 	path = getRad
 	url = https://github.com/aloftdata/getRad
